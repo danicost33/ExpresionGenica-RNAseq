@@ -1,5 +1,4 @@
-# ExpresionGenica-RNAseq
-Proyecto de análisis de expresión génica utilizando datos RNA-Seq
+
 # ExpresionGenica-RNAseq
 Este proyecto analiza la expresión génica utilizando datos de RNA-Seq.
 
