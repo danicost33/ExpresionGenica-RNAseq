@@ -8,7 +8,7 @@ Este proyecto analiza la expresión génica utilizando datos de RNA-Seq.
 - Presentar resultados claros y documentados.
 
 ## Estructura del proyecto
-- **datos/**: Archivos de entrada (por ejemplo, datos crudos de RNA-Seq).
+- **datos/**: Archivos de entrada (datos crudos de RNA-Seq).
 - **resultados/**: Archivos de salida generados por los scripts.
 - **scripts/**: Programas o scripts utilizados para procesar los datos.
 - **documentos/**: Notas, documentación adicional o referencias.
