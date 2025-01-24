@@ -13,7 +13,3 @@ Este proyecto analiza la expresión génica utilizando datos de RNA-Seq.
 - **scripts/**: Programas o scripts utilizados para procesar los datos.
 - **documentos/**: Notas, documentación adicional o referencias.
 
-## Cómo usar el repositorio
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/<tuusuario>/<turepositorio>.git
