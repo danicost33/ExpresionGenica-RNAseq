@@ -1,6 +1,6 @@
 
 # ExpresionGenica-RNAseq
-Este proyecto analiza la expresión génica utilizando datos de RNA-Seq.
+Este proyecto analiza la expresión génica diferencial con DESeq2 utilizando datos de RNA-Seq de células de cáncer de mama triple negativo con knock-out de Snail1.
 
 ## Objetivos
 - Organizar los datos de RNA-Seq en un repositorio bien estructurado.
